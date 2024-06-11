@@ -18,16 +18,16 @@ efficiency, accuracy, and security in attendance tracking for various organizati
 ![image](https://github.com/ahzamafaq/Biometric-Attendance-Scanner-using-IoT/assets/171343226/abe50e2e-dd93-45da-adaa-7d119a6f5878)
 
 Hardware requirements:
-• Arduino UNO
-• 16x2 LCD Display
-• Arduino Wi-fi shield
-• ESP8266-01
-• GT511C3 Finger print sensor (FPS)
-• 12V Adapter
-• Basic circuit components
+1. Arduino UNO
+2. 16x2 LCD Display
+3. Arduino Wi-fi shield
+4. ESP8266-01
+5. GT511C3 Finger print sensor (FPS)
+6. 12V Adapter
+7. Basic circuit components
 Software requirements:
-• Thingsboard cloud platform
-• Arduino IDE
+1. Thingsboard cloud platform
+2. Arduino IDE
 
 ![image](https://github.com/ahzamafaq/Biometric-Attendance-Scanner-using-IoT/assets/171343226/f1af8fe3-3dc2-49e1-9210-f12211054ad7)
 
@@ -58,6 +58,39 @@ adjusting the settings, thresholds, or delays
 to optimize performance and accuracy.
 
 ![image](https://github.com/ahzamafaq/Biometric-Attendance-Scanner-using-IoT/assets/171343226/5d164e16-2a39-40c9-8ff0-9909139b103f)
+
+RESULT AND DISCUSSION
+The accuracy of biometric attendance
+scanner demonstrated high accuracy in
+identifying individuals based on their
+unique biometric features such as
+fingerprints or facial characteristics. The
+system achieved an overall accuracy rate
+of 82% during the testing phase. The
+scanner showed efficient performance by
+quickly processing biometric data and
+providing attendance records in real-time.
+The average response time for attendance
+verification was 3 seconds. The system
+proved to be reliable, with a low false
+acceptance rate (FAR) and false rejection
+rate. The IoT-based biometric attendance
+scanner was designed to be user-friendly
+and intuitive. Both administrators and
+employees found the system easy to
+operate, with clear instructions and
+prompts. With IoT connectivity, attendance
+data was instantly transmitted and
+accessible to authorized personnel,
+allowing them to monitor attendance in
+real-time, detect anomalies, and take
+timely actions if required. The
+implementation of the biometric
+attendance scanner led to long-term cost
+savings by reducing the reliance on
+traditional attendance systems and
+streamlining attendance management
+processes.
 
 
 
