@@ -25,6 +25,7 @@ Hardware requirements:
 5. GT511C3 Finger print sensor (FPS)
 6. 12V Adapter
 7. Basic circuit components
+   
 Software requirements:
 1. Thingsboard cloud platform
 2. Arduino IDE
