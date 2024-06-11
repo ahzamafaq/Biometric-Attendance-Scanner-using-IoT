@@ -60,7 +60,7 @@ to optimize performance and accuracy.
 
 ![image](https://github.com/ahzamafaq/Biometric-Attendance-Scanner-using-IoT/assets/171343226/5d164e16-2a39-40c9-8ff0-9909139b103f)
 
-RESULT AND DISCUSSION
+Result:
 The accuracy of biometric attendance
 scanner demonstrated high accuracy in
 identifying individuals based on their
