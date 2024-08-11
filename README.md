@@ -1,6 +1,6 @@
 # Biometric-Attendance-Scanner-using-IoT
 
-This presents a fingerprint-based biometric attendance system utilizing Arduino UNO
+This project presents a fingerprint-based biometric attendance system utilizing Arduino UNO
 board and various components including the R305/R307 fingerprint sensor, DS3231/DS1307
 RTC module, 16x2 LCD display, potentiometer, push buttons, buzzer, LED, connecting
 wires, and a breadboard. The system aims to provide an efficient and secure solution for
